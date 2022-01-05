@@ -5,8 +5,7 @@
  Power BI
  ### Aim: 
  Analyze and Visualize recent Covid-19 data of India
- ## Covid-19 
- Data Analytics
+ ## Covid-19: Data Analytics
  ### Map: 
  This visualization is used to display how each part of India is affected by Covid-19. ![Map](https://github.com/das-ankur/Covid-19-India/blob/main/Visualizations/1.jpg)
  ### Table and Bar Chart: 
